@@ -1,0 +1,119 @@
+.navbar{
+    background-color: #015601;
+}
+
+li a{
+    color: #73A310;
+}
+
+.navbar-brand{
+    color: #73A310;
+}
+
+#logo{
+    
+    padding-left: 25px;
+    padding-top: 25px;
+    float:left;
+
+}
+
+#name{
+    font-family: montserrat;
+    color:#015601;
+    padding-left: 25px;
+    padding-top: 30px;
+    font-size: 60px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#image1{
+    float:right;
+    padding-top: 25px;
+}
+
+h3 b{
+    padding-left: 25px;
+}
+
+.panel{
+    align-items: center;
+    text-align: center;
+}
+
+#logocus{
+    float: left;
+    padding-top: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#heading1{
+    color:#015601;
+    padding-top: 35px;
+    float: right;
+}
+
+tr:hover{
+    background-color:#c1ff44;
+}
+
+th{
+    background-color: #C9D8FF;
+}
+
+#hero{
+    background-color: #D1FFCA;
+}
+
+#name2{
+    color: #015601;
+    padding-left: 10px;
+}
+
+#gplay{
+    float: right;
+}
+
+#bg1{
+    background-color: #D1FFCA; 
+}
+
+#user{
+    padding-left: 115px;
+}
+
+#image2{
+    padding-left: -20px;
+    padding-top: 25px;
+}
+
+#msg{
+    color:#015601;
+    padding-left: 500px;
+}
+
+#image3{
+    padding-left: 500px;
+}
+
+
+#name3{
+    color: #015601;
+    padding-left: 10px;
+}
+
+#bg2{
+    background-color: #D1FFCA; 
+}
+
+#bgcolor{
+    background-color: #D1FFCA; 
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#image4{
+    padding-left: 60px;
+}
